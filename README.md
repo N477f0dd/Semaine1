@@ -1,4 +1,4 @@
-# __Theophile BIGOT__
+#Theophile BIGOT
 
 Bonjour! Je suis Théo, je débute dans le codage.
 
@@ -10,7 +10,7 @@ Je suis un gamer passionné, qui s'interesse à tout style de jeu avec un grosse
 
 ----------
 
-## __Expérience Professionnelle__
+##Expérience Professionnelle
 
 *Diverses et variées* :
 
@@ -20,15 +20,29 @@ Je suis un gamer passionné, qui s'interesse à tout style de jeu avec un grosse
 
 ----------
 
-## __Formation__
+##Formation
 
 * BEP Métiers de la comptabilité
 
+----------
 
-
-## __Pourquoi je suis sur Simplonline__
+##Pourquoi je suis sur Simplonline
 
 Afin d'apprendre les bases du codage web via la formation [CodeursWeb18](https://www.codeursweb18.fr)
+
+----------
+
+##Contact
+
+![email](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOXifPcY3LZOpQl_WzrkBd320_sxyshvCgsW2Y55gOapQhgkO) Mail : n477f0dd@gmail.com
+
+![tel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywDmNahysOhKWHnYE4EZXWnO6jZ1aIPHcnjLvzrtTicn10bZB) Tel : 06-14-16-55-14
+
+![steam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3WvKgC6nJ0myTh42_2PrQj1f3FCnszzM903DdoePtaP4-pk0QA) Steam : n477f0dd
+
+![psn](http://www.storegames.com/images/icones/new/Playstation.png) PS ID : N477f0dd74
+
+![battlenet](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0avAgIaWfkCZJebnn6TRxLoxiSxCPHrY6A7aqQBtc8wkLJ0K67g) Bnet ID : N477f0dd#2402
 
 ----------
 
