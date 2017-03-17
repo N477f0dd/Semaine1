@@ -14,9 +14,9 @@ Je suis un gamer passionné, qui s'interesse à tout style de jeu avec un grosse
 
 *Diverses et variées* :
 
-                  * Domaine Éducatif
-                  * Vente
-                  * Manutention
+  * Domaine Éducatif
+  * Vente
+  * Manutention
 
 ----------
 
