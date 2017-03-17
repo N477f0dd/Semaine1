@@ -1,4 +1,4 @@
-#Theophile BIGOT
+# Theophile BIGOT
 
 Bonjour! Je suis Théo, je débute dans le codage.
 
@@ -10,7 +10,7 @@ Je suis un gamer passionné, qui s'interesse à tout style de jeu avec un grosse
 
 ----------
 
-##Expérience Professionnelle
+## Expérience Professionnelle
 
 *Diverses et variées* :
 
@@ -20,19 +20,19 @@ Je suis un gamer passionné, qui s'interesse à tout style de jeu avec un grosse
 
 ----------
 
-##Formation
+## Formation
 
 * BEP Métiers de la comptabilité
 
 ----------
 
-##Pourquoi je suis sur Simplonline
+## Pourquoi je suis sur Simplonline
 
 Afin d'apprendre les bases du codage web via la formation [CodeursWeb18](https://www.codeursweb18.fr)
 
 ----------
 
-##Contact
+## Contact
 
 ![email](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOXifPcY3LZOpQl_WzrkBd320_sxyshvCgsW2Y55gOapQhgkO) Mail : n477f0dd@gmail.com
 
